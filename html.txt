@@ -1,0 +1,247 @@
+Skip to content <#start-of-content>
+
+
+    Navigation Menu
+
+#
+
+Home <https://github.com/dashboard>
+#
+
+Issues <https://github.com/issues>
+#
+
+Pull Requests <https://github.com/pulls>
+
+<https://github.com/>
+Deveshthecoder <https://github.com/Deveshthecoder>Deveshthecoder
+/
+
+#
+
+Show more breadcrumb items
+
+  * Deveshthecoder <https://github.com/Deveshthecoder>
+  * Deveshthecoder.github.io <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io>
+
+/
+
+Deveshthecoder.github.io <https://github.com/Deveshthecoder/
+Deveshthecoder.github.io>Deveshthecoder.github.io /
+
+Type / to search
+
+
+  Search code, repositories, users, issues, pull requests...
+
+Search
+
+Clear
+
+0 suggestions.
+
+Search syntax tips <https://docs.github.com/search-github/github-code-
+search/understanding-github-code-search-syntax>
+Give feedback
+
+
+  Provide feedback
+
+We read every piece of feedback, and take your input very seriously.
+
+Include my email address so I can be contacted
+
+Cancel
+
+Submit feedback
+
+
+  Saved searches
+
+
+    Use saved searches to filter your results more quickly
+
+Name
+Query
+
+To see all available qualifiers, see our documentation <https://
+docs.github.com/search-github/github-code-search/understanding-github-
+code-search-syntax>.
+
+Cancel
+
+Create saved search
+
+<https://github.com/copilot>Chat with Copilot
+
+Open Copilot…
+
+Create new…
+
+<https://github.com/issues>Your issues
+
+<https://github.com/pulls>Your pull requests
+
+<https://github.com/notifications> You have no unread notifications
+
+
+      Uh oh!
+
+There was an error while loading. Please reload this page.
+
+  *
+
+    Code <https://github.com/Deveshthecoder/Deveshthecoder.github.io>
+  *
+
+    Issues 0 <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/issues>
+  *
+
+    Pull requests 0 <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/pulls>
+  *
+
+    Actions <https://github.com/Deveshthecoder/Deveshthecoder.github.io/
+    actions>
+  *
+
+    Projects 0 <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/projects>
+  *
+
+    Wiki <https://github.com/Deveshthecoder/Deveshthecoder.github.io/wiki>
+  *
+
+    Security <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/security><https://github.com/
+    Deveshthecoder/Deveshthecoder.github.io/security>
+    <https://github.com/Deveshthecoder/Deveshthecoder.github.io/security>
+    <https://github.com/Deveshthecoder/Deveshthecoder.github.io/security>
+
+
+          Uh oh!
+
+    <https://github.com/Deveshthecoder/Deveshthecoder.github.io/security>
+
+    There was an error while loading. <https://github.com/
+    Deveshthecoder/Deveshthecoder.github.io/security>Please reload this
+    page.
+
+  *
+
+    Insights <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/pulse>
+  *
+
+    Settings <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/settings>
+
+Additional navigation options
+
+  *
+
+    Code <https://github.com/Deveshthecoder/Deveshthecoder.github.io>
+  *
+
+    Issues <https://github.com/Deveshthecoder/Deveshthecoder.github.io/
+    issues>
+  *
+
+    Pull requests <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/pulls>
+  *
+
+    Actions <https://github.com/Deveshthecoder/Deveshthecoder.github.io/
+    actions>
+  *
+
+    Projects <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/projects>
+  *
+
+    Wiki <https://github.com/Deveshthecoder/Deveshthecoder.github.io/wiki>
+  *
+
+    Security <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/security>
+  *
+
+    Insights <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/pulse>
+  *
+
+    Settings <https://github.com/Deveshthecoder/
+    Deveshthecoder.github.io/settings>
+
+You signed in with another tab or window. Reload to refresh your
+session. You signed out in another tab or window. Reload to refresh your
+session. You switched accounts on another tab or window. Reload to
+refresh your session.
+
+Dismiss alert
+{{ message }}
+
+
+  Uploading files to Deveshthecoder.github.io
+
+
+    Breadcrumbs
+
+Deveshthecoder.github.io <https://github.com/Deveshthecoder/
+Deveshthecoder.github.io/upload/main>/
+
+
+    Upload files
+
+Drag files here to add them to your repository Drag additional files
+here to add them to your repository Drop to upload your files
+
+Or choose your files Yowza, that’s a big file. Try again with a file
+smaller than 25MB. Yowza, that’s a lot of files. Try uploading fewer
+than 100 at a time. This file is empty. This file is hidden. Something
+went really wrong, and we can’t process that file.
+
+Uploading 1 of 1 files
+
+@Deveshthecoder
+
+
+      Commit changes
+
+*ProTip!* Great commit summaries contain fewer than 50 characters. Place
+extra information in the extended description.
+Commit summary
+
+Optional extended description
+
+Commit changes Cancel <https://github.com/Deveshthecoder/
+Deveshthecoder.github.io>
+
+
+    Footer
+
+<https://github.com/> © 2025 GitHub, Inc.
+
+
+      Footer navigation
+
+  * Terms <https://docs.github.com/site-policy/github-terms/github-
+    terms-of-service>
+  * Privacy <https://docs.github.com/site-policy/privacy-policies/
+    github-privacy-statement>
+  * Security <https://github.com/security>
+  * Status <https://www.githubstatus.com/>
+  * Community <https://github.community/>
+  * Docs <https://docs.github.com/>
+  * Contact <https://support.github.com/?tags=dotcom-footer>
+  *
+    Manage cookies
+
+  *
+    Do not share my personal information
+
+You can’t perform that action at this time.
+Upload files · Deveshthecoder/Deveshthecoder.github.io 
+
